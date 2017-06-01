@@ -1,0 +1,103 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.adsbrain.hch.adsbrainapp.SelectModeFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <RelativeLayout
+        android:background="@drawable/main_background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/main_galley"
+                android:orientation="vertical">
+
+                <TextView
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:id="@+id/select_playgame_textview"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="20dp"
+                    android:text="난이도를 선택해 주세요."
+                    android:textSize="20dp" />
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp" />
+
+                <ImageButton
+                    android:src="@drawable/mode_easy_btn"
+                    android:background="#00000000"
+                    android:id="@+id/select_mode_easy"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp" />
+
+                <ImageButton
+                    android:src="@drawable/mode_normal_btn"
+                    android:background="#00000000"
+                    android:id="@+id/select_mode_normal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp" />
+
+                <ImageButton
+                    android:src="@drawable/mode_hard_btn"
+                    android:background="#00000000"
+                    android:id="@+id/select_mode_hard"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp" />
+            </LinearLayout>
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:padding="6dp"
+        android:background="#00000000"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:foregroundGravity="top|center"
+        android:orientation="vertical">
+
+        <Button
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:background="@drawable/green_round_layout"
+            android:drawableStart="@drawable/ic_arrow_back_black_24dp"
+            android:id="@+id/mode_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="뒤로가기" />
+
+    </LinearLayout>
+</FrameLayout>

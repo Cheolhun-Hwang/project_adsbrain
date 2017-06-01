@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:padding="10dp"
+    android:background="@drawable/main_background"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingBottom="15dp"
+        android:weightSum="1">
+
+        <ImageButton
+            android:id="@+id/main_sound_imgbtn"
+            android:layout_width="32dp"
+            android:layout_height="38dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_gravity="left"
+            android:layout_weight="0.03"
+            android:background="@drawable/green_round_layout"
+            app:srcCompat="@android:drawable/ic_lock_silent_mode_off" />
+
+        <TextView
+            android:paddingLeft="10dp"
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/main_sound_imgbtn"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/main_sound_imgbtn"
+            android:gravity="center"
+            android:text="BGM : Bit Rush _ LOL" />
+
+        <Button
+            android:padding="6dp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:id="@+id/main_menu_btn"
+            android:layout_width="70dp"
+            android:layout_height="40dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentTop="true"
+            android:layout_gravity="right"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/green_round_layout"
+            android:drawableStart="@drawable/ic_dehaze_black_24dp"
+            android:text="메뉴" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:padding="15dp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:background="@drawable/main_galley"
+            android:orientation="horizontal">
+
+            <LinearLayout
+
+                android:paddingRight="10dp"
+                android:paddingLeft="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:padding="5dp"
+                    android:weightSum="1">
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="0.10"
+                        android:background="@color/grey_300"
+                        android:orientation="vertical"
+                        android:paddingBottom="10dp">
+
+                        <TextView
+                            android:id="@+id/main_home_nickname"
+                            android:layout_width="match_parent"
+                            android:layout_height="29dp"
+                            android:background="@drawable/nickname_background"
+                            android:gravity="center"
+                            android:text="Anonymous"
+                            android:textColor="@color/white"
+                            android:textStyle="bold" />
+
+                        <ImageView
+                            android:id="@+id/main_charactor_imageview"
+                            android:layout_width="match_parent"
+                            android:layout_height="162dp"
+                            android:src="@drawable/brain_character_grade_one" />
+                    </LinearLayout>
+
+
+                    <Button
+                        android:id="@+id/main_home_record"
+                        android:layout_width="match_parent"
+                        android:layout_height="22dp"
+                        android:layout_alignEnd="@+id/main_charactor_imageview"
+                        android:layout_alignStart="@+id/main_charactor_imageview"
+                        android:layout_below="@+id/main_charactor_imageview"
+                        android:background="@color/red_600"
+                        android:text="업적 칭호 착용하기"
+                        android:textColor="@color/white"
+                        android:textSize="12dp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:weightSum="1">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="222dp"
+                    android:background="@drawable/main_galley_three"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:layout_weight="0.05">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="연습게임 누적 점수 : "
+                        android:textColor="@color/black"
+                        android:textSize="12dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/main_galley_practice_addcost"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="0점"
+                        android:textColor="@color/black"
+                        android:textSize="12dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:paddingTop="7dp"
+                        android:text="랭크 이지 모드 평균 점수 : "
+                        android:textColor="@color/black"
+                        android:textSize="10dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/main_galley_rank_easy_avg"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="0점"
+                        android:textColor="@color/black"
+                        android:textSize="12dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:paddingTop="7dp"
+                        android:text="랭크 노말 모드 평균 점수 : "
+                        android:textColor="@color/black"
+                        android:textSize="10dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/main_galley_rank_normal_avg"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="0점"
+                        android:textColor="@color/black"
+                        android:textSize="12dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:paddingTop="7dp"
+                        android:text="랭크 하드 모드 평균 점수 : "
+                        android:textColor="@color/black"
+                        android:textSize="10dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/main_galley_rank_hard_avg"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="0점"
+                        android:textColor="@color/black"
+                        android:textSize="12dp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="170dp"
+                android:background="@drawable/main_galley"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:padding="20dp"
+                android:weightSum="1">
+
+                <ImageButton
+                    android:id="@+id/main_practice_game_btn"
+                    android:background="#00000000"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.33"
+                    android:src="@drawable/button_practice_btn_three" />
+
+                <ImageButton
+                    android:src="@drawable/button_rank_btn_one"
+                    android:background="#00000000"
+                    android:id="@+id/main_rank_game_btn"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

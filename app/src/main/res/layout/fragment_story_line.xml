@@ -1,0 +1,80 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.adsbrain.hch.adsbrainapp.StoryLineFragment">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:background="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.adsbrain.hch.adsbrainapp.StoryLineActivity">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ViewFlipper
+                android:id="@+id/story_line_viewflipper"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/story_scene_one"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/app_scene_01" />
+                <ImageView
+                    android:id="@+id/story_scene_two"
+                    android:src="@drawable/app_scene_02"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+                <ImageView
+                    android:id="@+id/story_scene_three"
+                    android:src="@drawable/app_scene_03"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+                <ImageView
+                    android:id="@+id/story_scene_four"
+                    android:src="@drawable/app_scene_04"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+                <ImageView
+                    android:id="@+id/story_scene_five"
+                    android:src="@drawable/app_scene_05"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+                <ImageView
+                    android:id="@+id/story_scene_six"
+                    android:src="@drawable/app_scene_06"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+                <ImageView
+                    android:id="@+id/story_scene_seven"
+                    android:src="@drawable/app_scene_07"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+            </ViewFlipper>
+
+            <Button
+                android:id="@+id/story_line_skip_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginBottom="13dp"
+                android:layout_marginEnd="12dp"
+                android:background="#00FF0000"
+                android:text="넘어가기"
+                android:textColor="@color/white"
+                android:textSize="17dp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+    </LinearLayout>
+
+
+</FrameLayout>
