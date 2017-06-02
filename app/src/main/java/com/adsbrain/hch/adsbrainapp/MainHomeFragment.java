@@ -45,7 +45,7 @@ public class MainHomeFragment extends Fragment{
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         //메인 프레그먼트 사운드 셋팅_메소드 메인 통신
-        ((MainActivity)getActivity()).Main_BGM_start();
+        ((MainActivity)getActivity()).Main_BGM_restart();
         isSoundOK = true;
 
         v = inflater.inflate(R.layout.fragment_main_home_layout, container, false);

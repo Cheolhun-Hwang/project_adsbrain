@@ -53,42 +53,40 @@
     </RelativeLayout>
 
     <LinearLayout
-        android:gravity="center"
-        android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical">
 
         <LinearLayout
-            android:padding="15dp"
-            android:gravity="center"
             android:layout_width="match_parent"
-            android:layout_height="300dp"
+            android:layout_height="400dp"
             android:background="@drawable/main_galley"
-            android:orientation="horizontal">
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="15dp">
 
             <LinearLayout
-
-                android:paddingRight="10dp"
-                android:paddingLeft="10dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:gravity="center"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp">
 
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:gravity="center"
                     android:orientation="vertical"
-                    android:padding="5dp"
-                    android:weightSum="1">
+                    android:padding="5dp">
 
 
                     <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:layout_weight="0.10"
                         android:background="@color/grey_300"
                         android:orientation="vertical"
                         android:paddingBottom="10dp">
@@ -96,7 +94,7 @@
                         <TextView
                             android:id="@+id/main_home_nickname"
                             android:layout_width="match_parent"
-                            android:layout_height="29dp"
+                            android:layout_height="40dp"
                             android:background="@drawable/nickname_background"
                             android:gravity="center"
                             android:text="Anonymous"
@@ -106,7 +104,7 @@
                         <ImageView
                             android:id="@+id/main_charactor_imageview"
                             android:layout_width="match_parent"
-                            android:layout_height="162dp"
+                            android:layout_height="wrap_content"
                             android:src="@drawable/brain_character_grade_one" />
                     </LinearLayout>
 
@@ -114,35 +112,38 @@
                     <Button
                         android:id="@+id/main_home_record"
                         android:layout_width="match_parent"
-                        android:layout_height="22dp"
+                        android:layout_height="40dp"
                         android:layout_alignEnd="@+id/main_charactor_imageview"
                         android:layout_alignStart="@+id/main_charactor_imageview"
                         android:layout_below="@+id/main_charactor_imageview"
                         android:background="@color/red_600"
                         android:text="업적 칭호 착용하기"
                         android:textColor="@color/white"
-                        android:textSize="12dp"
+                        android:textSize="14dp"
                         android:textStyle="bold" />
                 </LinearLayout>
             </LinearLayout>
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:gravity="center"
                 android:orientation="vertical"
                 android:paddingLeft="10dp"
-                android:paddingRight="10dp"
-                android:weightSum="1">
+                android:paddingRight="10dp">
 
                 <LinearLayout
                     android:layout_width="wrap_content"
-                    android:layout_height="222dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.05"
                     android:background="@drawable/main_galley_three"
                     android:gravity="center"
-                    android:orientation="vertical"
-                    android:layout_weight="0.05">
+                    android:orientation="vertical">
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp" />
 
                     <TextView
                         android:layout_width="match_parent"
@@ -150,8 +151,12 @@
                         android:gravity="center"
                         android:text="연습게임 누적 점수 : "
                         android:textColor="@color/black"
-                        android:textSize="12dp"
+                        android:textSize="14dp"
                         android:textStyle="bold" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="8dp" />
 
                     <TextView
                         android:id="@+id/main_galley_practice_addcost"
@@ -163,6 +168,10 @@
                         android:textSize="12dp"
                         android:textStyle="bold" />
 
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="10dp" />
+
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -170,8 +179,12 @@
                         android:paddingTop="7dp"
                         android:text="랭크 이지 모드 평균 점수 : "
                         android:textColor="@color/black"
-                        android:textSize="10dp"
+                        android:textSize="14dp"
                         android:textStyle="bold" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="8dp" />
 
                     <TextView
                         android:id="@+id/main_galley_rank_easy_avg"
@@ -183,6 +196,10 @@
                         android:textSize="12dp"
                         android:textStyle="bold" />
 
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="10dp" />
+
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -190,8 +207,12 @@
                         android:paddingTop="7dp"
                         android:text="랭크 노말 모드 평균 점수 : "
                         android:textColor="@color/black"
-                        android:textSize="10dp"
+                        android:textSize="14dp"
                         android:textStyle="bold" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="8dp" />
 
                     <TextView
                         android:id="@+id/main_galley_rank_normal_avg"
@@ -203,6 +224,10 @@
                         android:textSize="12dp"
                         android:textStyle="bold" />
 
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="10dp" />
+
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -210,8 +235,12 @@
                         android:paddingTop="7dp"
                         android:text="랭크 하드 모드 평균 점수 : "
                         android:textColor="@color/black"
-                        android:textSize="10dp"
+                        android:textSize="14dp"
                         android:textStyle="bold" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="8dp" />
 
                     <TextView
                         android:id="@+id/main_galley_rank_hard_avg"
@@ -222,39 +251,43 @@
                         android:textColor="@color/black"
                         android:textSize="12dp"
                         android:textStyle="bold" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp" />
                 </LinearLayout>
             </LinearLayout>
         </LinearLayout>
 
         <LinearLayout
+            android:gravity="center"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_weight="0"
             android:orientation="vertical"
             android:padding="20dp">
 
             <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="170dp"
+                android:layout_width="wrap_content"
+                android:layout_height="250dp"
                 android:background="@drawable/main_galley"
                 android:gravity="center"
                 android:orientation="vertical"
-                android:padding="20dp"
-                android:weightSum="1">
+                android:padding="20dp">
 
                 <ImageButton
                     android:id="@+id/main_practice_game_btn"
-                    android:background="#00000000"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_weight="0.33"
+                    android:background="#00000000"
                     android:src="@drawable/button_practice_btn_three" />
 
                 <ImageButton
-                    android:src="@drawable/button_rank_btn_one"
-                    android:background="#00000000"
                     android:id="@+id/main_rank_game_btn"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" />
+                    android:layout_height="wrap_content"
+                    android:background="#00000000"
+                    android:src="@drawable/button_rank_btn_one" />
             </LinearLayout>
         </LinearLayout>
     </LinearLayout>

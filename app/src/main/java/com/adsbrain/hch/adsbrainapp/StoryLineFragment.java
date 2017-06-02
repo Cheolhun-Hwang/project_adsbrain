@@ -51,6 +51,7 @@ public class StoryLineFragment extends Fragment {
         flipper.setInAnimation(AnimationUtils.loadAnimation(getContext(), R.anim.slide_in_right));
         flipper.setOutAnimation(AnimationUtils.loadAnimation(getContext(), R.anim.slide_out_left));
 
+        ((MainActivity)getActivity()).Main_BGM_stop();
         mp = MediaPlayer.create(getContext(), R.raw.story_line_bgm);
         mp.setLooping(true);
 

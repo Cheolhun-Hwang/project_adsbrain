@@ -1,0 +1,64 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.adsbrain.hch.adsbrainapp.LoginFragment">
+
+<android.support.constraint.ConstraintLayout
+    android:background="@drawable/main_login_activity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="259dp"
+        android:layout_height="109dp"
+        android:background="@drawable/round_alpha_layout"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.763"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        app:layout_constraintHorizontal_bias="0.504">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:paddingTop="20dp"
+            android:text="게임 스타트!!"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="-198dp" />
+
+        <Button
+            android:id="@+id/login_loginBTN"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:background="@color/red_700"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:paddingLeft="20dp"
+            android:drawableStart="@drawable/googleg_standard_color_18"
+            android:text="Google Login"
+            android:textSize="18dp"
+            android:textColor="@color/white" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="92dp" />
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
+
+</FrameLayout>
