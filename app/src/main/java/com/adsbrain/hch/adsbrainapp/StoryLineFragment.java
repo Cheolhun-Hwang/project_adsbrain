@@ -92,7 +92,14 @@ public class StoryLineFragment extends Fragment {
         mp.stop();
         timer_change_Activity.interrupt();
         timer_page_turn.interrupt();
-        FragmentManager manager = getActivity().getSupportFragmentManager();
-        manager.beginTransaction().replace(R.id.main_container, new MainHomeFragment()).commit();
+        if(((MainActivity)getActivity()).getNickname().toString().equals("anonymous")){
+            FragmentManager manager = getActivity().getSupportFragmentManager();
+            manager.beginTransaction().replace(R.id.main_container, new NickNameAgeFragment()).commit();
+            ((MainActivity)getActivity()).Main_BGM_restart();
+        }else{
+            FragmentManager manager = getActivity().getSupportFragmentManager();
+            manager.beginTransaction().replace(R.id.main_container, new MainHomeFragment()).commit();
+            ((MainActivity)getActivity()).Main_BGM_restart();
+        }
     }
 }

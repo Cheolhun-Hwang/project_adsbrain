@@ -2,6 +2,717 @@
 <items version="2" >
 
     <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\fcf6af6fa851f53c97e16c349d8e197fbf835495\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_949ef59e7b4291cfb98c37c1f620edb5762d5dfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\ae7d441c0a40fac70b2f422a46c1418a5a106043\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_6ea429c20240557196d318ded1c756b619499518.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\95e9206448f3542349ead1b08687a170dd7e2e4c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d7184a651c5975b49928ce7c76175d491ee7a5e">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c7db6e01888c16d825ccc516bf639d1357451a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\fcf6af6fa851f53c97e16c349d8e197fbf835495\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_949ef59e7b4291cfb98c37c1f620edb5762d5dfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\77a50e285cea26515486f302139a131ab006e5a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_35305014d9429055a72b0fc3286a89b68b85f417.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\ae7d441c0a40fac70b2f422a46c1418a5a106043\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_6ea429c20240557196d318ded1c756b619499518\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\b82c69793eb349b966e1b44068acd496cc7b2512\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_cbc3cec77a3ef6c72de5c488c46388ea5a93e692.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\428ed788a646da7ab67980d7df98444f090fe0b3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="84a9797d6c3dd732d00f0433edc17778573cea17">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a1a07e2b2116978718ab247a19b462c2c6fd2181\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\b82c69793eb349b966e1b44068acd496cc7b2512\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_cbc3cec77a3ef6c72de5c488c46388ea5a93e692\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\708f549f31c4f9d47ec7c31bea310004c56f4574\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_aa825ab7cb36cae4982eaed5907aea34bf26c230\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\9c1af29d6bb86163477824794dd103703b080006\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="60a8cdd1ad9b8d22a5d44bc8e479257ced2bf075">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_76b5e726259aaff7d3ff74e61af4ee1a58f73f13.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\dead54f30f4b654050b5f54d5eb4cd0cdac226a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_cd5fcba106c5d6960a61d3ee41245dc81003bc75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\9fce631969b0708848a52f6e0602c02aeb129f5f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3dbaff65d26258306561d545f88d6712ac41dd46">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca1d33933a61e9733eea448e85eb20a260661d62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\3d05ae23ca178b9e7c24af6e46bf64d6d963ce9c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d068a922134f5f9b9f98bfc609145e09af03c2a4">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_527303d91850eef8bf387fb4006b75b8f0d5d42c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\798c067a27bbfcf1575829c1f7c6494907bd1411\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5278163d4e1f8b815eebce834d84dc15f5718dbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\0a864c964f7500c4784d3dca3e548132e08b2709\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_50aac852b00e55d00753404b13c4d2a5d320fe55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\f11a85eea588a26b954fbf756ff2da14caa594bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_7ae8872029fa2f699505662ae2814a97e3d86a34.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\77a50e285cea26515486f302139a131ab006e5a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_35305014d9429055a72b0fc3286a89b68b85f417\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\7fb92c4ed008268475a44c117999d0aa4e3f14a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_1a32aa93f973606562e3a7314b3f7038b36931f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\0e6a78b0661470d452542c2a454e02373750d6b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="577aa74e06e6b4b407ff23ac75043685ae26dcbb">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b8f13e5c63fa8b1c8723a0e8b17a5877978ebf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\dead54f30f4b654050b5f54d5eb4cd0cdac226a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_cd5fcba106c5d6960a61d3ee41245dc81003bc75.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\46c032ef97688bf66696bc55974bde3604ea8dca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="553e58050e91d4295a2f1d1f80ea63b41ee5bc4b">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_57daf6a30d4cce7d3e9767ecc1a884b9ff1ed886\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\7fb92c4ed008268475a44c117999d0aa4e3f14a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_1a32aa93f973606562e3a7314b3f7038b36931f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\96b7f4b1f1d000e73b60d68cbd106f9eae7e8985\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cea6fccbfe2b9ca7701a8766710179cd41ae1974">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_445f4cea6a2eee70808b42cb873840084ba28bc0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\19534c22407fca41e075f38aef18e8fa41991e6a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_5c962da60b66d6a51e5ee1eacfd17877fb8d3b9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\932f7aab79df31ab1f515b3e2fc751c094b6dc91\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db98789d957b2425d2edc5d593a9abf93629f0c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\e4dcd6dc97029d3ced96247c65a7c9cbedba877b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9024225796c3f11342ef6a4a99439f2f988bafb0">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_9246afc50e11e9b6e988074371e8721c7fa4b3ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\aa4c07f8922001976013edfe88cd4e6b1e720399\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ebbc740ce425daf0e621ab62e5d752bbef3d2924\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\3d05ae23ca178b9e7c24af6e46bf64d6d963ce9c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d068a922134f5f9b9f98bfc609145e09af03c2a4">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_527303d91850eef8bf387fb4006b75b8f0d5d42c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\15225a6307c10cda5cbe11f0d802946fbf5c3ad3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ff5114aff3bfb387577ba92a11408dcf0441c24">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_0ab5f74320c02ed1a001bf9882d924cc7f8a011a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\cd561d76578318b1a8880f333719bbadeb45e51b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_08c777b7402189de0036b1d88a3f1daa643e61e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\0a864c964f7500c4784d3dca3e548132e08b2709\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_50aac852b00e55d00753404b13c4d2a5d320fe55\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\cd561d76578318b1a8880f333719bbadeb45e51b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_08c777b7402189de0036b1d88a3f1daa643e61e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\19534c22407fca41e075f38aef18e8fa41991e6a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_5c962da60b66d6a51e5ee1eacfd17877fb8d3b9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\46c032ef97688bf66696bc55974bde3604ea8dca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="553e58050e91d4295a2f1d1f80ea63b41ee5bc4b">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_57daf6a30d4cce7d3e9767ecc1a884b9ff1ed886.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\15225a6307c10cda5cbe11f0d802946fbf5c3ad3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ff5114aff3bfb387577ba92a11408dcf0441c24">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_0ab5f74320c02ed1a001bf9882d924cc7f8a011a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\558178436de269f3f852e3faa3c0d06b736505fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_ec50c9c4606b7b4ca8a01aa651fa2de33b48dcfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\support-annotations-25.3.1_9fad339f67174d1c41e69a615b3aeec24df56aec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\87c5d35871af648c46b4f94eb3077ec4ca2b000b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf5f630e354827a90ffe90ce2a330495108f0595">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c0b19d3fae1152c166f856915b4bd861d112ccbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\708f549f31c4f9d47ec7c31bea310004c56f4574\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_aa825ab7cb36cae4982eaed5907aea34bf26c230.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\e4dcd6dc97029d3ced96247c65a7c9cbedba877b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9024225796c3f11342ef6a4a99439f2f988bafb0">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_9246afc50e11e9b6e988074371e8721c7fa4b3ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\c88a286cd88ebb7b1f1eee15dfb9add2d238286e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ab2c6111c9e733c965725976ca2a2e57670000f9">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_f09dc8ced2a76bb9275b304e0b69d4457ecbfbd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\3fcf6ecb45a395669c66e3800f461e413cd7c83d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="29bd9a40adebb952fbe97515aac9db5dfbd90d93">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_b35d6125d43598be80b28cded55beb0cc08519cf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\533d564daf5b4332c924f04f981428682abc8cf9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aec5337725e7a3171f7f40a50d9837745693d429">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28b38f5bcbedcba8d3d729318a369ed84f972742\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\3fcf6ecb45a395669c66e3800f461e413cd7c83d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="29bd9a40adebb952fbe97515aac9db5dfbd90d93">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_b35d6125d43598be80b28cded55beb0cc08519cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\c88a286cd88ebb7b1f1eee15dfb9add2d238286e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ab2c6111c9e733c965725976ca2a2e57670000f9">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_f09dc8ced2a76bb9275b304e0b69d4457ecbfbd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\716c534f9cff5cbd8e163d27886b1e476f43f3bf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1172091167cff5873cbcccad4c0e08ec9e3240de">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c4233e1995fca37c8e7d16e7d0cbb3a35adef060\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\cc906c3ad4277657ba9f60e165948015d6335a50\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_2293557a125a8abc0ca5a326f669e4fd9a46c2c6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\fcf6af6fa851f53c97e16c349d8e197fbf835495\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_949ef59e7b4291cfb98c37c1f620edb5762d5dfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\d7027be32f003b585d87c9118445296b315812a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_c41a9103de739ddc76d5206a4e56f1259fcde0f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\d988218ff1326a040b7cfe4362691b4c8a625e2a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c7e0d83e333a25f969bce43db78150c63e7aa0c">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a95fb4c5f44baeabc4c070e40d3f18cb16fb445d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\d7027be32f003b585d87c9118445296b315812a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_c41a9103de739ddc76d5206a4e56f1259fcde0f6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\87c5d35871af648c46b4f94eb3077ec4ca2b000b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf5f630e354827a90ffe90ce2a330495108f0595">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_c0b19d3fae1152c166f856915b4bd861d112ccbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\271b6292792b92219714af088407ca7dd537e23d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_bd86f7249e3441763599a5a6b8a0255e67009511.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\9fce631969b0708848a52f6e0602c02aeb129f5f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3dbaff65d26258306561d545f88d6712ac41dd46">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_ca1d33933a61e9733eea448e85eb20a260661d62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\e0f20af141bf01cb0ef23d22df7447affd411a59\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="81978250f6de6ffdf2ea4632e7955613103e984c">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d16bfd6c152f2281f3bb7161f8aa133da6d6c899\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\b82c69793eb349b966e1b44068acd496cc7b2512\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cbc3cec77a3ef6c72de5c488c46388ea5a93e692\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\955cafcc71a386b6feecb5906949221e45053c6f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ba4defc8cb4ed5b90b8ef71602722cdeebe507cd">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_813a77746e68511ae4085f6ce1ba5a5e237d2dd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\87c5d35871af648c46b4f94eb3077ec4ca2b000b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf5f630e354827a90ffe90ce2a330495108f0595">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_c0b19d3fae1152c166f856915b4bd861d112ccbe.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\d0473d3111852d2622f581b3b0e107c54e1b8c1d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_eea2d7273a9fdfbca9e91047f9db541e638886a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\d0473d3111852d2622f581b3b0e107c54e1b8c1d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_eea2d7273a9fdfbca9e91047f9db541e638886a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\9fce631969b0708848a52f6e0602c02aeb129f5f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3dbaff65d26258306561d545f88d6712ac41dd46">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_ca1d33933a61e9733eea448e85eb20a260661d62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\0147ed812eb51b37af7a48ec671616ce5533cc29\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_ccba04567f6011cada65498b5c57e2ff6dffb284.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\0147ed812eb51b37af7a48ec671616ce5533cc29\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_ccba04567f6011cada65498b5c57e2ff6dffb284\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\5d37d8d1c8cb795cf9ff6b40093aa863c630f97c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_57a67d81009e70545b5093019345582189a931ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\b097faf740e47753b201d2ed0195c71ffff7e27f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="79100391e3b32d7323a04b7b8a9c8ad0adbae583">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_8cb04a462b11ee4946b9fe195d2b1763e1fb196a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\b097faf740e47753b201d2ed0195c71ffff7e27f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="79100391e3b32d7323a04b7b8a9c8ad0adbae583">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_8cb04a462b11ee4946b9fe195d2b1763e1fb196a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\7ee5769bad6fc394e3d6fe36e278cc7a493b80ce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a00607e7cf55392edd324bc8fa3827ded7e9859b">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_52db40878e6e03b08c9cc7c326723587dbe31801\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\db377efb2edd196dd409f6d0b016b48cad74fd56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="215363c803a119c16058c8bc0ccd0a4ee62e7157">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_9605930b463d2b0cf69bf22fa541c9bd9bbe4ab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\5d37d8d1c8cb795cf9ff6b40093aa863c630f97c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_57a67d81009e70545b5093019345582189a931ad.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\46c032ef97688bf66696bc55974bde3604ea8dca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="553e58050e91d4295a2f1d1f80ea63b41ee5bc4b">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_57daf6a30d4cce7d3e9767ecc1a884b9ff1ed886\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\271b6292792b92219714af088407ca7dd537e23d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_bd86f7249e3441763599a5a6b8a0255e67009511\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\716c534f9cff5cbd8e163d27886b1e476f43f3bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1172091167cff5873cbcccad4c0e08ec9e3240de">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_c4233e1995fca37c8e7d16e7d0cbb3a35adef060\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\ea3de2d3a26085551064abbe5829dc78f94a3d70\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4ba6d53176502b2672a5d7d25a0000d1a6e701c">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af25a62adda2f36b5184d3448909f764158e6e5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\6e5ce38882ac7ab70e44e43b853a152ad2b2ee73\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="740c4226d6bec1adaaf5fee4b9178674b695f75a">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_aa764af1a5e5fcb7ecf46ebe9ed1686d02ebecaa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\db377efb2edd196dd409f6d0b016b48cad74fd56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="215363c803a119c16058c8bc0ccd0a4ee62e7157">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_9605930b463d2b0cf69bf22fa541c9bd9bbe4ab7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\716c534f9cff5cbd8e163d27886b1e476f43f3bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1172091167cff5873cbcccad4c0e08ec9e3240de">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_c4233e1995fca37c8e7d16e7d0cbb3a35adef060.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\558178436de269f3f852e3faa3c0d06b736505fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec50c9c4606b7b4ca8a01aa651fa2de33b48dcfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\6e5ce38882ac7ab70e44e43b853a152ad2b2ee73\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="740c4226d6bec1adaaf5fee4b9178674b695f75a">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_aa764af1a5e5fcb7ecf46ebe9ed1686d02ebecaa\classes.dex" />
+    </item>
+    <item
         is-multidex="true"
         jar="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
@@ -12,12 +723,939 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\3a3e63bbe77f8e0708188cbe8fa8de908ba59a7c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f9aa417cd6d4373c413f6e60865133bcfdb7096b">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03160e6693500f01e953a79330786f233556f391\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\c88a286cd88ebb7b1f1eee15dfb9add2d238286e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ab2c6111c9e733c965725976ca2a2e57670000f9">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f09dc8ced2a76bb9275b304e0b69d4457ecbfbd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\a7aa79df2472f2ecf565a4a63da60ce41061e09f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b41f7538ea1af0aad76cb3253b87b13744788c2">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bab5db3b90b73a3872081540d48c078cafa0cb4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\cc906c3ad4277657ba9f60e165948015d6335a50\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_2293557a125a8abc0ca5a326f669e4fd9a46c2c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\6315cca7353950e0f20074baead62b4d4d6e7397\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="079c035b2a1820bf455e0ae7fd484dec575e2182">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_e193597355258322b32cc10c91e337257d34f62e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\f93e716a6fa97a90941b47d4ad6aaf97fb356571\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2f2f16fde0c662116f735951b4e830afba373cc6">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc18194f72ce8d35a2112c53849824b1baa20674\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\b1ad3a98f25c6a3134fc4c1dafe0288be4eed60a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_25b59b6d5d54ad24f7103c569930aeb143d273f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\d988218ff1326a040b7cfe4362691b4c8a625e2a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c7e0d83e333a25f969bce43db78150c63e7aa0c">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_a95fb4c5f44baeabc4c070e40d3f18cb16fb445d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\b72ad4bc7cd97cf764828bb6510bda8758a6ca7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9b775d7b643397da3ab57e62ae8abb74a9cc9a83">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_28801100c90289668ae651d18198303553a284df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\d988218ff1326a040b7cfe4362691b4c8a625e2a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c7e0d83e333a25f969bce43db78150c63e7aa0c">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_a95fb4c5f44baeabc4c070e40d3f18cb16fb445d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\e0f20af141bf01cb0ef23d22df7447affd411a59\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="81978250f6de6ffdf2ea4632e7955613103e984c">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_d16bfd6c152f2281f3bb7161f8aa133da6d6c899.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\ea3de2d3a26085551064abbe5829dc78f94a3d70\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4ba6d53176502b2672a5d7d25a0000d1a6e701c">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_af25a62adda2f36b5184d3448909f764158e6e5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\e0f20af141bf01cb0ef23d22df7447affd411a59\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="81978250f6de6ffdf2ea4632e7955613103e984c">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_d16bfd6c152f2281f3bb7161f8aa133da6d6c899\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\38777dd116a294728b552861de13a8ad48b1e765\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f1968b9614bc6851e99db64e356cf60063503e5d">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_a72f512d1c7e28fbaeeb7e01edb5809935c36d1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\38777dd116a294728b552861de13a8ad48b1e765\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f1968b9614bc6851e99db64e356cf60063503e5d">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_a72f512d1c7e28fbaeeb7e01edb5809935c36d1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\921e2f58056e946fec9bdc03f4d322d3b078e74b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a43729dd397e849f2a8bdc5d57a2f3170efb3ed">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_00aac9139f448b88651636467bf9322018abd329.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\da7dcc4b916b62a47d83d3c69a086431ea100276\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_817ce85f87280bf0626eb090d77bc30c37ee52ab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\43ff8381f6c50d4f5a0ff930cf63f226dfcd9205\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec94bba6a9bbd3461d90830e0a0752a6487f5484">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a4c93ea940439f551a58a685e986b4742f87dd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\af6ca6cb0816e5b4f282bd81ea49334d726e597f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_618f145580d217d464bf6ac06f99ef14a5a6aa3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\6315cca7353950e0f20074baead62b4d4d6e7397\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="079c035b2a1820bf455e0ae7fd484dec575e2182">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_e193597355258322b32cc10c91e337257d34f62e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\0af5d1518b08c5aa3a2a49400397167b487ac526\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd057bc43f1c1e2f13566f5fe800d077b08b61b9">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9fd17501feeeb70efaa35ae091c4ebac6cb8c6e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\b1ad3a98f25c6a3134fc4c1dafe0288be4eed60a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_25b59b6d5d54ad24f7103c569930aeb143d273f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\b72ad4bc7cd97cf764828bb6510bda8758a6ca7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9b775d7b643397da3ab57e62ae8abb74a9cc9a83">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_28801100c90289668ae651d18198303553a284df.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\da7dcc4b916b62a47d83d3c69a086431ea100276\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_817ce85f87280bf0626eb090d77bc30c37ee52ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\af6ca6cb0816e5b4f282bd81ea49334d726e597f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_618f145580d217d464bf6ac06f99ef14a5a6aa3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\db377efb2edd196dd409f6d0b016b48cad74fd56\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="215363c803a119c16058c8bc0ccd0a4ee62e7157">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9605930b463d2b0cf69bf22fa541c9bd9bbe4ab7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\c6f1b8e93a8a5aa1330139d05278f013eafa1c64\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4e5223997fa6032b326167ee4586ae0b3498647">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_71bdf85561cb721c0a6a4872be66638da886df10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\4a3768b7b0ed8232f12116061f6ce174a098fc35\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cad5ae5774f39b7017a3ae3d103e7b78506397b0">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_aa5edfc6d822d324d091880085a478d8826066ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\7823715eb293c632b35c313837c5ddcd9231d35c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_32aa64a5a5b207e8f7b996cd244fd86f04f8ae8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\7ee5769bad6fc394e3d6fe36e278cc7a493b80ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a00607e7cf55392edd324bc8fa3827ded7e9859b">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_52db40878e6e03b08c9cc7c326723587dbe31801.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\b097faf740e47753b201d2ed0195c71ffff7e27f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="79100391e3b32d7323a04b7b8a9c8ad0adbae583">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8cb04a462b11ee4946b9fe195d2b1763e1fb196a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\38777dd116a294728b552861de13a8ad48b1e765\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f1968b9614bc6851e99db64e356cf60063503e5d">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a72f512d1c7e28fbaeeb7e01edb5809935c36d1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\7ee5769bad6fc394e3d6fe36e278cc7a493b80ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a00607e7cf55392edd324bc8fa3827ded7e9859b">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_52db40878e6e03b08c9cc7c326723587dbe31801\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\3a3e63bbe77f8e0708188cbe8fa8de908ba59a7c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f9aa417cd6d4373c413f6e60865133bcfdb7096b">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_03160e6693500f01e953a79330786f233556f391\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\0827f2b86aa91a9aa073e62cdac3ed9d2484fdfa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d54a722583c1b99735f62d395806fa38bf5669ae">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_d3f622f4b37c8757163819daed82f4198374a47b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\3b937fc93cd523b6abff96ba9cb3a54ebeaf16d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_f1761bdd2ea024f25b1f8caf057e83baa31bbc3d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\6e5ce38882ac7ab70e44e43b853a152ad2b2ee73\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="740c4226d6bec1adaaf5fee4b9178674b695f75a">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aa764af1a5e5fcb7ecf46ebe9ed1686d02ebecaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\a7aa79df2472f2ecf565a4a63da60ce41061e09f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b41f7538ea1af0aad76cb3253b87b13744788c2">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_bab5db3b90b73a3872081540d48c078cafa0cb4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\2608788dc2bba768f37c66579cd9c6dc6aa8755e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7979972576b6dbb1688052e42e5199abb54f81ba">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_1b810f5917fb10ed36a54fd5ad8e863cff67a3fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\0827f2b86aa91a9aa073e62cdac3ed9d2484fdfa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d54a722583c1b99735f62d395806fa38bf5669ae">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_d3f622f4b37c8757163819daed82f4198374a47b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\ea3de2d3a26085551064abbe5829dc78f94a3d70\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4ba6d53176502b2672a5d7d25a0000d1a6e701c">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_af25a62adda2f36b5184d3448909f764158e6e5b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\7c7a796814c90607805a3450d2c0afb441e10192\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b34276d1fea450411cedd49d3146b04838f9dd6e">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dd355d89953bde4d00663f0b01ac74a9f04d94d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\3b937fc93cd523b6abff96ba9cb3a54ebeaf16d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_f1761bdd2ea024f25b1f8caf057e83baa31bbc3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\a7aa79df2472f2ecf565a4a63da60ce41061e09f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b41f7538ea1af0aad76cb3253b87b13744788c2">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_bab5db3b90b73a3872081540d48c078cafa0cb4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\cc906c3ad4277657ba9f60e165948015d6335a50\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2293557a125a8abc0ca5a326f669e4fd9a46c2c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\2608788dc2bba768f37c66579cd9c6dc6aa8755e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7979972576b6dbb1688052e42e5199abb54f81ba">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_1b810f5917fb10ed36a54fd5ad8e863cff67a3fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\3a3e63bbe77f8e0708188cbe8fa8de908ba59a7c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f9aa417cd6d4373c413f6e60865133bcfdb7096b">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_03160e6693500f01e953a79330786f233556f391.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\981984a930014ac61b7eecb96217aa2da89ec94e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_7b073e8f4ef23ce46787faaed73a07a6c9ae325b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\4a3768b7b0ed8232f12116061f6ce174a098fc35\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cad5ae5774f39b7017a3ae3d103e7b78506397b0">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_aa5edfc6d822d324d091880085a478d8826066ca.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\77a50e285cea26515486f302139a131ab006e5a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_35305014d9429055a72b0fc3286a89b68b85f417\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\981984a930014ac61b7eecb96217aa2da89ec94e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_7b073e8f4ef23ce46787faaed73a07a6c9ae325b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\ae7d441c0a40fac70b2f422a46c1418a5a106043\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6ea429c20240557196d318ded1c756b619499518\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\6315cca7353950e0f20074baead62b4d4d6e7397\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="079c035b2a1820bf455e0ae7fd484dec575e2182">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e193597355258322b32cc10c91e337257d34f62e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\support-annotations-25.3.1_9fad339f67174d1c41e69a615b3aeec24df56aec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\428ed788a646da7ab67980d7df98444f090fe0b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="84a9797d6c3dd732d00f0433edc17778573cea17">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_a1a07e2b2116978718ab247a19b462c2c6fd2181.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\9c1af29d6bb86163477824794dd103703b080006\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="60a8cdd1ad9b8d22a5d44bc8e479257ced2bf075">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_76b5e726259aaff7d3ff74e61af4ee1a58f73f13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\43ff8381f6c50d4f5a0ff930cf63f226dfcd9205\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec94bba6a9bbd3461d90830e0a0752a6487f5484">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_7a4c93ea940439f551a58a685e986b4742f87dd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\3d05ae23ca178b9e7c24af6e46bf64d6d963ce9c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d068a922134f5f9b9f98bfc609145e09af03c2a4">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_527303d91850eef8bf387fb4006b75b8f0d5d42c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\0e6a78b0661470d452542c2a454e02373750d6b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="577aa74e06e6b4b407ff23ac75043685ae26dcbb">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_1b8f13e5c63fa8b1c8723a0e8b17a5877978ebf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\921e2f58056e946fec9bdc03f4d322d3b078e74b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a43729dd397e849f2a8bdc5d57a2f3170efb3ed">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_00aac9139f448b88651636467bf9322018abd329\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\0af5d1518b08c5aa3a2a49400397167b487ac526\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd057bc43f1c1e2f13566f5fe800d077b08b61b9">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_9fd17501feeeb70efaa35ae091c4ebac6cb8c6e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\798c067a27bbfcf1575829c1f7c6494907bd1411\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_5278163d4e1f8b815eebce834d84dc15f5718dbc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\aa4c07f8922001976013edfe88cd4e6b1e720399\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_ebbc740ce425daf0e621ab62e5d752bbef3d2924\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\798c067a27bbfcf1575829c1f7c6494907bd1411\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_5278163d4e1f8b815eebce834d84dc15f5718dbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\96b7f4b1f1d000e73b60d68cbd106f9eae7e8985\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cea6fccbfe2b9ca7701a8766710179cd41ae1974">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_445f4cea6a2eee70808b42cb873840084ba28bc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\af6ca6cb0816e5b4f282bd81ea49334d726e597f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_618f145580d217d464bf6ac06f99ef14a5a6aa3d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\f93e716a6fa97a90941b47d4ad6aaf97fb356571\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2f2f16fde0c662116f735951b4e830afba373cc6">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_fc18194f72ce8d35a2112c53849824b1baa20674\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\b72ad4bc7cd97cf764828bb6510bda8758a6ca7f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9b775d7b643397da3ab57e62ae8abb74a9cc9a83">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28801100c90289668ae651d18198303553a284df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\f11a85eea588a26b954fbf756ff2da14caa594bf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ae8872029fa2f699505662ae2814a97e3d86a34\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\f93e716a6fa97a90941b47d4ad6aaf97fb356571\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2f2f16fde0c662116f735951b4e830afba373cc6">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_fc18194f72ce8d35a2112c53849824b1baa20674.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\43ff8381f6c50d4f5a0ff930cf63f226dfcd9205\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec94bba6a9bbd3461d90830e0a0752a6487f5484">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_7a4c93ea940439f551a58a685e986b4742f87dd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\0e6a78b0661470d452542c2a454e02373750d6b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="577aa74e06e6b4b407ff23ac75043685ae26dcbb">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_1b8f13e5c63fa8b1c8723a0e8b17a5877978ebf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\0af5d1518b08c5aa3a2a49400397167b487ac526\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd057bc43f1c1e2f13566f5fe800d077b08b61b9">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_9fd17501feeeb70efaa35ae091c4ebac6cb8c6e6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\96b7f4b1f1d000e73b60d68cbd106f9eae7e8985\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cea6fccbfe2b9ca7701a8766710179cd41ae1974">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_445f4cea6a2eee70808b42cb873840084ba28bc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\7c7a796814c90607805a3450d2c0afb441e10192\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b34276d1fea450411cedd49d3146b04838f9dd6e">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_dd355d89953bde4d00663f0b01ac74a9f04d94d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\c6f1b8e93a8a5aa1330139d05278f013eafa1c64\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4e5223997fa6032b326167ee4586ae0b3498647">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_71bdf85561cb721c0a6a4872be66638da886df10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\7823715eb293c632b35c313837c5ddcd9231d35c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_32aa64a5a5b207e8f7b996cd244fd86f04f8ae8b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\7823715eb293c632b35c313837c5ddcd9231d35c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_32aa64a5a5b207e8f7b996cd244fd86f04f8ae8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\f11a85eea588a26b954fbf756ff2da14caa594bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_7ae8872029fa2f699505662ae2814a97e3d86a34\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\7c7a796814c90607805a3450d2c0afb441e10192\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b34276d1fea450411cedd49d3146b04838f9dd6e">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_dd355d89953bde4d00663f0b01ac74a9f04d94d4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\c6f1b8e93a8a5aa1330139d05278f013eafa1c64\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4e5223997fa6032b326167ee4586ae0b3498647">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_71bdf85561cb721c0a6a4872be66638da886df10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\15225a6307c10cda5cbe11f0d802946fbf5c3ad3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ff5114aff3bfb387577ba92a11408dcf0441c24">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ab5f74320c02ed1a001bf9882d924cc7f8a011a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\0827f2b86aa91a9aa073e62cdac3ed9d2484fdfa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d54a722583c1b99735f62d395806fa38bf5669ae">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d3f622f4b37c8757163819daed82f4198374a47b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\955cafcc71a386b6feecb5906949221e45053c6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ba4defc8cb4ed5b90b8ef71602722cdeebe507cd">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_813a77746e68511ae4085f6ce1ba5a5e237d2dd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\921e2f58056e946fec9bdc03f4d322d3b078e74b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a43729dd397e849f2a8bdc5d57a2f3170efb3ed">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_00aac9139f448b88651636467bf9322018abd329\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\aa4c07f8922001976013edfe88cd4e6b1e720399\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_ebbc740ce425daf0e621ab62e5d752bbef3d2924.jar" />
+    </item>
+    <item
+        is-multidex="true"
         jar="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="299f307b6fe3db6d9963dbdb23b086b8510aa3e1">
+        sha1="1267a53d0d450779beac0e43b2abc1cc9cd417a3">
         <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e78c2fc19709b8e0efeab778dca3b74ef52f2eb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\cd561d76578318b1a8880f333719bbadeb45e51b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_08c777b7402189de0036b1d88a3f1daa643e61e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\932f7aab79df31ab1f515b3e2fc751c094b6dc91\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_db98789d957b2425d2edc5d593a9abf93629f0c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\e4dcd6dc97029d3ced96247c65a7c9cbedba877b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9024225796c3f11342ef6a4a99439f2f988bafb0">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9246afc50e11e9b6e988074371e8721c7fa4b3ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\955cafcc71a386b6feecb5906949221e45053c6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ba4defc8cb4ed5b90b8ef71602722cdeebe507cd">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_813a77746e68511ae4085f6ce1ba5a5e237d2dd9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\9c1af29d6bb86163477824794dd103703b080006\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="60a8cdd1ad9b8d22a5d44bc8e479257ced2bf075">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_76b5e726259aaff7d3ff74e61af4ee1a58f73f13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\95e9206448f3542349ead1b08687a170dd7e2e4c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d7184a651c5975b49928ce7c76175d491ee7a5e">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_4c7db6e01888c16d825ccc516bf639d1357451a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\constraint-layout-solver-1.0.2_52fc44d6bc2582254918808322acabab1263d643\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\428ed788a646da7ab67980d7df98444f090fe0b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="84a9797d6c3dd732d00f0433edc17778573cea17">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_a1a07e2b2116978718ab247a19b462c2c6fd2181\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\533d564daf5b4332c924f04f981428682abc8cf9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aec5337725e7a3171f7f40a50d9837745693d429">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_28b38f5bcbedcba8d3d729318a369ed84f972742.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\3b937fc93cd523b6abff96ba9cb3a54ebeaf16d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1761bdd2ea024f25b1f8caf057e83baa31bbc3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_52fc44d6bc2582254918808322acabab1263d643.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\932f7aab79df31ab1f515b3e2fc751c094b6dc91\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_db98789d957b2425d2edc5d593a9abf93629f0c6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\2608788dc2bba768f37c66579cd9c6dc6aa8755e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7979972576b6dbb1688052e42e5199abb54f81ba">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b810f5917fb10ed36a54fd5ad8e863cff67a3fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\4a3768b7b0ed8232f12116061f6ce174a098fc35\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cad5ae5774f39b7017a3ae3d103e7b78506397b0">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aa5edfc6d822d324d091880085a478d8826066ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\533d564daf5b4332c924f04f981428682abc8cf9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aec5337725e7a3171f7f40a50d9837745693d429">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_28b38f5bcbedcba8d3d729318a369ed84f972742\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qewqs\.android\build-cache\95e9206448f3542349ead1b08687a170dd7e2e4c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d7184a651c5975b49928ce7c76175d491ee7a5e">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\pre-dexed\release\classes_4c7db6e01888c16d825ccc516bf639d1357451a3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qewqs\.android\build-cache\3fcf6ecb45a395669c66e3800f461e413cd7c83d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="29bd9a40adebb952fbe97515aac9db5dfbd90d93">
+        <dex dex="D:\AndroidStudioProjects\adsbrain\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b35d6125d43598be80b28cded55beb0cc08519cf\classes.dex" />
     </item>
 
 </items>

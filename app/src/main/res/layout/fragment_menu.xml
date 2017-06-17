@@ -1,0 +1,106 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="com.adsbrain.hch.adsbrainapp.MenuFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:background="@drawable/sub_background"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingBottom="40dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="right|bottom">
+
+                <ImageButton
+                    android:id="@+id/menu_close_imgbtn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginEnd="23dp"
+                    android:background="#00000000"
+                    app:srcCompat="@android:drawable/ic_menu_close_clear_cancel" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:paddingRight="40dp"
+                android:paddingLeft="40dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <ImageButton
+                    android:padding="10dp"
+                    android:id="@+id/menu_qa_imgbtn"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#00000000"
+                    app:srcCompat="@drawable/menu_qa_btn" />
+
+                <ImageButton
+                    android:padding="10dp"
+                    android:id="@+id/menu_story_imgbtn"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#00000000"
+                    app:srcCompat="@drawable/menu_story_imgbtn" />
+
+                <ImageButton
+                    android:padding="10dp"
+                    android:id="@+id/menu_store_data_imgbtn"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#00000000"
+                    app:srcCompat="@drawable/menu_store_data_btn" />
+
+                <ImageButton
+                    android:padding="10dp"
+                    android:id="@+id/menu_logout_imgbtn"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#00000000"
+                    app:srcCompat="@drawable/menu_logout_btn" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:paddingTop="30dp"
+                android:paddingRight="40dp"
+                android:paddingLeft="40dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:padding="10dp"
+                    android:background="@drawable/round_alpha_layout"
+                    android:id="@+id/textView7"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="개발자 : 황철훈\n@copyright. chulhun Hwang\nContactme\nEmail : hwangchulhun@gmail.com" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+    </LinearLayout>
+</FrameLayout>

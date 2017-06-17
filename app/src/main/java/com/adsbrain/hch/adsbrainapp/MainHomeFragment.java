@@ -1,6 +1,7 @@
 package com.adsbrain.hch.adsbrainapp;
 
 
+import android.icu.text.DecimalFormat;
 import android.media.Image;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -21,7 +22,7 @@ public class MainHomeFragment extends Fragment{
     private View v;
 
     private final String TAG = "MainHomeFragment";
-
+    int LV;
     private Button main_menu;
     private ImageButton main_sound_imgbtn;
     private boolean isSoundOK;
@@ -30,9 +31,14 @@ public class MainHomeFragment extends Fragment{
     private ImageButton main_rank;
 
     private TextView name;
-    private TextView rank_text;
-    private TextView addcost_text;
-    private TextView latestcost_text;
+    private TextView PTS;
+    private TextView RE;
+    private TextView RN;
+    private TextView RH;
+
+    private TextView main_LV;
+    private TextView main_LV_point;
+    private MainActivity.Myscore myscore;
 
     private FragmentManager manager;
 
@@ -44,13 +50,37 @@ public class MainHomeFragment extends Fragment{
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        //메인 프레그먼트 사운드 셋팅_메소드 메인 통신
-        ((MainActivity)getActivity()).Main_BGM_restart();
         isSoundOK = true;
 
+        myscore = ((MainActivity)getActivity()).getMyscore();
+
         v = inflater.inflate(R.layout.fragment_main_home_layout, container, false);
+        name = (TextView) v.findViewById(R.id.main_home_nickname);
+        PTS = (TextView) v.findViewById(R.id.main_galley_practice_addcost);
+        RE = (TextView) v.findViewById(R.id.main_galley_rank_easy_avg);
+        RN = (TextView) v.findViewById(R.id.main_galley_rank_normal_avg);
+        RH = (TextView) v.findViewById(R.id.main_galley_rank_hard_avg);
+
+        main_LV = (TextView) v.findViewById(R.id.main_LV_textview);
+        main_LV_point = (TextView) v.findViewById(R.id.main_LV_UP_point_textview);
 
         init_btn(v);
+        LV = ((MainActivity)getActivity()).getNowLV();
+        main_LV_point.setText(((MainActivity)getActivity()).getNowLV_POINT() + " / " + ((MainActivity)getActivity()).getLV_UP().get(LV));
+        name.setText(((MainActivity)getActivity()).getNickname());
+        PTS.setText((myscore.getPE() + myscore.getPN() + myscore.getPH()) + "점");
+
+        if(!(myscore.getREC() <= 0 )){
+            RE.setText(String.format("%.2f", ((float)myscore.getRE() / (float)myscore.getREC())) + "점");
+        }
+        if(!(myscore.getRNC() <= 0 )){
+            RN.setText(String.format("%.2f", ((float)myscore.getRN() / (float)myscore.getRNC())) + "점");
+        }
+        if(!(myscore.getRHC() <= 0 )){
+            RH.setText(String.format("%.2f", ((float)myscore.getRH() / (float)myscore.getRHC())) + "점");
+        }
+
+
 
 
         manager = getActivity().getSupportFragmentManager();
@@ -63,7 +93,9 @@ public class MainHomeFragment extends Fragment{
         main_menu.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                FragmentManager manager = getActivity().getSupportFragmentManager();
+                MenuFragment menuFragment = new MenuFragment();
+                menuFragment.show(manager, "MenuFragments");
             }
         });
 
@@ -105,5 +137,14 @@ public class MainHomeFragment extends Fragment{
                 manager.beginTransaction().replace(R.id.main_container, selectfragment_rank).commit();
             }
         });
+    }
+
+
+    @Override
+    public void onResume() {
+        name.setText(((MainActivity)getActivity()).getNickname());
+        ((MainActivity)getActivity()).isLevelUP();
+        main_LV.setText(LV+"");
+        super.onResume();
     }
 }

@@ -62,8 +62,7 @@ public class QA extends Fragment {
 
         isOverText = false;
 
-        //finfo = ((MainActivity)getActivity()).getmFirebaseAuth();
-        //Username = ((MainActivity)getActivity()).getmUsername();
+        finfo = ((MainActivity)getActivity()).getmFirebaseAuth();
 
         checkTextLenth = (TextView) v.findViewById(R.id.checkTextLenth);
         qa_send_btn = (Button)v.findViewById(R.id.qa_send_btn);
@@ -78,30 +77,25 @@ public class QA extends Fragment {
         qa_send_btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //finfo = ((MainActivity)getActivity()).getmFirebaseAuth();
-                //Username = ((MainActivity)getActivity()).getmUsername();
-/*
-                if(!(((MainActivity)getActivity()).getislogin())){
-                    Toast.makeText(getActivity(), "로그인 후 가능한 서비스입니다.", Toast.LENGTH_LONG).show();
-                }else {
-                    if(isOverText){
-                        Toast.makeText(getActivity(), "본문 내용의 최대 길이를 확인해 주세요.", Toast.LENGTH_LONG).show();
-                    }else{
-                        long now = System.currentTimeMillis();
-                        Date date = new Date(now);
-                        SimpleDateFormat sdfnow = new SimpleDateFormat("yyyy_MM_dd_HH_mm_ss");
-                        String stNow = sdfnow.format(date);
+                Username = finfo.getCurrentUser().getDisplayName().toString();
 
-                        MESSAGES_CHILD_2 = stNow;
+                if(isOverText){
+                    Toast.makeText(getActivity(), "본문 내용의 최대 길이를 확인해 주세요.", Toast.LENGTH_LONG).show();
+                }else{
+                    String stNow = ((MainActivity)getActivity()).getCurrent_Date_time();
 
-                        qa_send_format QAMessage = new qa_send_format(Username.toString(), stNow,
-                                qa_title.getText().toString(), qa_contents.getText().toString());
-                        mFirebaseDatabaseReference.child(MESSAGES_CHILD_1).child(MESSAGES_CHILD_2).push().setValue(QAMessage);
-                        Toast.makeText(getActivity(), Username.toString()+ stNow+
-                                qa_title.getText().toString()+ qa_contents.getText().toString(), Toast.LENGTH_LONG).show();
-                    }
+                    MESSAGES_CHILD_2 = stNow;
+
+                    qa_send_format QAMessage = new qa_send_format(Username, stNow,
+                            qa_title.getText().toString(), qa_contents.getText().toString());
+                    mFirebaseDatabaseReference.child(MESSAGES_CHILD_1).child(MESSAGES_CHILD_2).push().setValue(QAMessage);
+
+                    Toast.makeText(getActivity(), "성공적으로 전송되었습니다.", Toast.LENGTH_SHORT).show();
+
+                    FragmentManager manager = getActivity().getSupportFragmentManager();
+                    manager.beginTransaction().replace(R.id.main_container, new MainHomeFragment()).commit();
                 }
-                */
+
             }
         });
 
@@ -133,9 +127,8 @@ public class QA extends Fragment {
         qa_cancel_btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(getActivity(), "cancel", Toast.LENGTH_LONG).show();
-                qa_title.setText("");
-                qa_contents.setText("");
+                FragmentManager manager = getActivity().getSupportFragmentManager();
+                manager.beginTransaction().replace(R.id.main_container, new MainHomeFragment()).commit();
             }
         });
 
@@ -143,5 +136,52 @@ public class QA extends Fragment {
         return v;
 
 
+    }
+
+    private class qa_send_format {
+        private String who;
+        private String when;
+        private String title;
+        private String contents;
+
+        qa_send_format(){
+            this.who = "";
+            this.when = "";
+            this.title = "";
+            this.contents = "";
+        }
+
+        qa_send_format(String who, String when, String title, String contents){
+            this.who = who;
+            this.when = when;
+            this.title = title;
+            this.contents = contents;
+        }
+
+        public void setWho(String who){
+            this.who = who;
+        }
+        public void setWhen(String when){
+            this.when = when;
+        }
+        public void setTitle(String title){
+            this.title = title;
+        }
+        public void setContents(String contents){
+            this.contents = contents;
+        }
+
+        public String getWho(){
+            return this.who;
+        }
+        public String getWhen(){
+            return  this.when;
+        }
+        public String getTitle(){
+            return  this.title;
+        }
+        public String getContents(){
+            return  this.contents;
+        }
     }
 }
