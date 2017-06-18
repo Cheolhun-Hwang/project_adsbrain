@@ -19,8 +19,10 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/MenuFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/MenuFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/ScoreFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/ScoreFragment.java" />
     </list>
     <ignored path="adsbrain.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,47 +54,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="qa_layout.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/qa_layout.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="22" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="148" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SelectModeFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/SelectModeFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2400">
-              <caret line="110" column="1" selection-start-line="17" selection-start-column="0" selection-end-line="110" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fragment_select_mode.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_select_mode.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PlayGameFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/PlayGameFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14675">
-              <caret line="658" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="658" selection-end-column="0" />
+            <state relative-caret-position="-2625">
+              <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
               <folding>
                 <element signature="method#radiobutton_event#0;class#PlayGameFragment#0" expanded="false" />
                 <element signature="method#wait_sec_time#0;class#PlayGameFragment#0" expanded="false" />
@@ -101,15 +67,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Game_Question_Info_Class.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/Game_Question_Info_Class.java">
+      <file leaf-file-name="StoryLineFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/StoryLineFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="37" selection-end-column="1" />
-              <folding>
-                <element signature="e#766#767#0" expanded="true" />
-                <element signature="e#795#796#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="532">
+              <caret line="101" column="12" selection-start-line="101" selection-start-column="12" selection-end-line="101" selection-end-column="61" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -127,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ScoreFragment.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ScoreFragment.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/ScoreFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="81" selection-end-column="1" />
+            <state relative-caret-position="482">
+              <caret line="75" column="65" selection-start-line="75" selection-start-column="65" selection-end-line="75" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -150,7 +113,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MenuFragment.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MenuFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/MenuFragment.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -162,14 +125,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fragment_play_game.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_play_game.xml">
-          <provider selected="true" editor-type-id="android-designer2">
-            <state />
+      <file leaf-file-name="MainHomeFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/MainHomeFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="457">
+              <caret line="143" column="28" selection-start-line="143" selection-start-column="28" selection-end-line="143" selection-end-column="28" />
+              <folding />
+            </state>
           </provider>
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="6375">
-              <caret line="255" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="286" selection-end-column="0" />
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-290">
+              <caret line="179" column="27" selection-start-line="179" selection-start-column="27" selection-end-line="179" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NickNameAgeFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/NickNameAgeFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/LoginFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -2610,7 +2600,6 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_menu.xml" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_score.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/ScoreFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/anim/fadein.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_play_game.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/store_data.java" />
@@ -2619,14 +2608,15 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/MainHomeFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/PlayGameFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/MenuFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/ScoreFragment.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="867" />
-    <option name="y" value="242" />
-    <option name="width" value="1061" />
-    <option name="height" value="796" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -2656,18 +2646,14 @@
       <pane id="ProjectPane">
         <subPane />
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="adsbrain" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -2718,8 +2704,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
-    <property name="device.picker.selection" value="520373284dcdb3f5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Myintroduce" />
+    <property name="device.picker.selection" value="Nexus_7_API_25" />
     <property name="android.project.structure.last.selected" value="app" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="ExportApk.ApkPath" value="C:\Users\qewqs\Desktop" />
@@ -3072,7 +3058,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="867" y="242" width="1061" height="796" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -3082,14 +3068,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27294117" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43045685" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16756175" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -3102,6 +3087,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -3251,7 +3237,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3301,13 +3286,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="209" column="18" selection-start-line="209" selection-start-column="14" selection-end-line="209" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_login.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -3318,14 +3296,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/LoginFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="63" column="1" selection-start-line="23" selection-start-column="0" selection-end-line="63" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_story_line.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -3333,21 +3303,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="21" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/StoryLineFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="105" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/NickNameAgeFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="90" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -3371,13 +3326,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/MainHomeFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="141" column="0" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_menu.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -3385,7 +3333,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="85" column="37" selection-start-line="0" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3393,7 +3340,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3700">
           <caret line="187" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3404,7 +3350,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="22" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="148" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3438,17 +3383,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/PlayGameFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14675">
-          <caret line="658" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="658" selection-end-column="0" />
-          <folding>
-            <element signature="method#radiobutton_event#0;class#PlayGameFragment#0" expanded="false" />
-            <element signature="method#wait_sec_time#0;class#PlayGameFragment#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/Game_Question_Info_Class.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -3471,14 +3405,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/ScoreFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="81" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_score.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -3490,6 +3416,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/LoginFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/MenuFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -3497,6 +3431,57 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-290">
+          <caret line="179" column="27" selection-start-line="179" selection-start-column="27" selection-end-line="179" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/MainHomeFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="143" column="28" selection-start-line="143" selection-start-column="28" selection-end-line="143" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/NickNameAgeFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/StoryLineFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="101" column="12" selection-start-line="101" selection-start-column="12" selection-end-line="101" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/PlayGameFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2625">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <folding>
+            <element signature="method#radiobutton_event#0;class#PlayGameFragment#0" expanded="false" />
+            <element signature="method#wait_sec_time#0;class#PlayGameFragment#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/adsbrain/hch/adsbrainapp/ScoreFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="75" column="65" selection-start-line="75" selection-start-column="65" selection-end-line="75" selection-end-column="65" />
+          <folding />
         </state>
       </provider>
     </entry>

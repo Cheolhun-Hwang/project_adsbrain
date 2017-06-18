@@ -73,6 +73,7 @@ public class ScoreFragment extends DialogFragment {
                 dismiss();
                 FragmentManager manager = getActivity().getSupportFragmentManager();
                 manager.beginTransaction().replace(R.id.main_container, new MainHomeFragment()).commit();
+                ((MainActivity)getActivity()).Main_BGM_restart();
             }
         });
 
