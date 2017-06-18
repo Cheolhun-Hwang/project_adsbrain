@@ -98,8 +98,8 @@ public class MenuFragment extends DialogFragment {
 
                 progressDialog = new ProgressDialog(getActivity());
                 progressDialog.setProgressStyle(ProgressDialog.STYLE_SPINNER);
-                progressDialog.setTitle("구글 로그인 요청");
-                progressDialog.setMessage("로그인하는 중입니다.");
+                progressDialog.setTitle("데이터 저장 중");
+                progressDialog.setMessage("서버에서 입력받고 있습니다.");
 
                 Thread store = new Thread(new Runnable() {
                     @Override
